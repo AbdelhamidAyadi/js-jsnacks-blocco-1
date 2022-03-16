@@ -12,4 +12,4 @@ for(i=0 ; i < 10 ; i++){
 
     somma += numbers[i];
 };
-container.innerHTML += `<div>${somma}</div>`;
+container.innerHTML += `<div>La somma è:${somma}</div>`;
